@@ -1,0 +1,153 @@
+
+cat.png
+size: 1024,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat/arm
+  rotate: false
+  xy: 252, 238
+  size: 144, 42
+  orig: 144, 42
+  offset: 0, 0
+  index: -1
+cat/body
+  rotate: false
+  xy: 529, 0
+  size: 161, 106
+  orig: 161, 106
+  offset: 0, 0
+  index: -1
+cat/body_wave
+  rotate: false
+  xy: 692, 0
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+cat/brow_l
+  rotate: false
+  xy: 818, 238
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+cat/brow_r
+  rotate: false
+  xy: 845, 238
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+cat/cheek_l
+  rotate: false
+  xy: 647, 238
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+cat/cheek_r
+  rotate: false
+  xy: 689, 238
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+cat/ear_l
+  rotate: false
+  xy: 296, 0
+  size: 115, 143
+  orig: 115, 143
+  offset: 0, 0
+  index: -1
+cat/ear_r
+  rotate: false
+  xy: 413, 0
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+cat/eye_l
+  rotate: false
+  xy: 846, 0
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+cat/eye_r
+  rotate: false
+  xy: 927, 0
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+cat/face
+  rotate: false
+  xy: 0, 0
+  size: 294, 236
+  orig: 294, 236
+  offset: 0, 0
+  index: -1
+cat/hand
+  rotate: false
+  xy: 0, 238
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+cat/inner
+  rotate: false
+  xy: 398, 238
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+cat/mouth
+  rotate: false
+  xy: 768, 238
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+cat/nose
+  rotate: false
+  xy: 731, 238
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+cat/pants
+  rotate: false
+  xy: 475, 238
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+cat/shine_l
+  rotate: false
+  xy: 209, 238
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+cat/shine_r
+  rotate: false
+  xy: 583, 238
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+cat/shirt
+  rotate: false
+  xy: 58, 238
+  size: 149, 59
+  orig: 149, 59
+  offset: 0, 0
+  index: -1
+fx/tear
+  rotate: false
+  xy: 623, 238
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

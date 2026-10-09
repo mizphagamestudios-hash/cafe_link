@@ -1,0 +1,160 @@
+
+cocoa.png
+size: 1024,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocoa/arm
+  rotate: false
+  xy: 613, 240
+  size: 146, 42
+  orig: 146, 42
+  offset: 0, 0
+  index: -1
+cocoa/body
+  rotate: false
+  xy: 730, 0
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+cocoa/body_wave
+  rotate: false
+  xy: 0, 240
+  size: 152, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1
+cocoa/brow_l
+  rotate: false
+  xy: 128, 345
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+cocoa/brow_r
+  rotate: false
+  xy: 154, 345
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+cocoa/cheek_l
+  rotate: false
+  xy: 972, 240
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+cocoa/cheek_r
+  rotate: false
+  xy: 0, 345
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+cocoa/ear_l
+  rotate: false
+  xy: 498, 0
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+cocoa/ear_r
+  rotate: false
+  xy: 614, 0
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+cocoa/eye_l
+  rotate: false
+  xy: 154, 240
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+cocoa/eye_r
+  rotate: false
+  xy: 236, 240
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+cocoa/face
+  rotate: false
+  xy: 0, 0
+  size: 282, 238
+  orig: 282, 238
+  offset: 0, 0
+  index: -1
+cocoa/hand
+  rotate: false
+  xy: 318, 240
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+cocoa/hat
+  rotate: false
+  xy: 284, 0
+  size: 212, 152
+  orig: 212, 152
+  offset: 0, 0
+  index: -1
+cocoa/inner
+  rotate: false
+  xy: 761, 240
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+cocoa/mouth
+  rotate: false
+  xy: 43, 345
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+cocoa/nose
+  rotate: false
+  xy: 94, 345
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+cocoa/pants
+  rotate: false
+  xy: 839, 240
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+cocoa/shine_l
+  rotate: false
+  xy: 529, 240
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+cocoa/shine_r
+  rotate: false
+  xy: 573, 240
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+cocoa/shirt
+  rotate: false
+  xy: 376, 240
+  size: 151, 59
+  orig: 151, 59
+  offset: 0, 0
+  index: -1
+fx/tear
+  rotate: false
+  xy: 948, 240
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+grumble.png
+size: 1024,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/tear
+  rotate: false
+  xy: 958, 240
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+grumble/arm
+  rotate: false
+  xy: 459, 240
+  size: 146, 42
+  orig: 146, 42
+  offset: 0, 0
+  index: -1
+grumble/body
+  rotate: false
+  xy: 666, 0
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+grumble/body_wave
+  rotate: false
+  xy: 827, 0
+  size: 152, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1
+grumble/brow_l
+  rotate: false
+  xy: 171, 322
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+grumble/brow_r
+  rotate: false
+  xy: 197, 322
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+grumble/cheek_l
+  rotate: false
+  xy: 0, 322
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+grumble/cheek_r
+  rotate: false
+  xy: 43, 322
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+grumble/chef_hat
+  rotate: false
+  xy: 284, 0
+  size: 148, 144
+  orig: 148, 144
+  offset: 0, 0
+  index: -1
+grumble/ear_l
+  rotate: false
+  xy: 434, 0
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+grumble/ear_r
+  rotate: false
+  xy: 550, 0
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+grumble/eye_l
+  rotate: false
+  xy: 0, 240
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grumble/eye_r
+  rotate: false
+  xy: 82, 240
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grumble/face
+  rotate: false
+  xy: 0, 0
+  size: 282, 238
+  orig: 282, 238
+  offset: 0, 0
+  index: -1
+grumble/hand
+  rotate: false
+  xy: 164, 240
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+grumble/inner
+  rotate: false
+  xy: 607, 240
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+grumble/lid_l
+  rotate: false
+  xy: 794, 240
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+grumble/lid_r
+  rotate: false
+  xy: 876, 240
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+grumble/mouth
+  rotate: false
+  xy: 86, 322
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+grumble/nose
+  rotate: false
+  xy: 137, 322
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+grumble/pants
+  rotate: false
+  xy: 685, 240
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+grumble/shine_l
+  rotate: false
+  xy: 375, 240
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+grumble/shine_r
+  rotate: false
+  xy: 419, 240
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+grumble/shirt
+  rotate: false
+  xy: 222, 240
+  size: 151, 59
+  orig: 151, 59
+  offset: 0, 0
+  index: -1

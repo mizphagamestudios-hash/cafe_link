@@ -1,0 +1,160 @@
+
+luna.png
+size: 1024,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/tear
+  rotate: false
+  xy: 939, 238
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+luna/arm
+  rotate: false
+  xy: 568, 238
+  size: 144, 42
+  orig: 144, 42
+  offset: 0, 0
+  index: -1
+luna/body
+  rotate: false
+  xy: 739, 0
+  size: 161, 106
+  orig: 161, 106
+  offset: 0, 0
+  index: -1
+luna/body_wave
+  rotate: false
+  xy: 0, 238
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+luna/brow_l
+  rotate: false
+  xy: 129, 346
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+luna/brow_r
+  rotate: false
+  xy: 156, 346
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+luna/cheek_l
+  rotate: false
+  xy: 963, 238
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+luna/cheek_r
+  rotate: false
+  xy: 0, 346
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+luna/ear_l
+  rotate: false
+  xy: 506, 0
+  size: 115, 143
+  orig: 115, 143
+  offset: 0, 0
+  index: -1
+luna/ear_r
+  rotate: false
+  xy: 623, 0
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+luna/eye_l
+  rotate: false
+  xy: 154, 238
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+luna/eye_r
+  rotate: false
+  xy: 235, 238
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+luna/face
+  rotate: false
+  xy: 0, 0
+  size: 294, 236
+  orig: 294, 236
+  offset: 0, 0
+  index: -1
+luna/hand
+  rotate: false
+  xy: 316, 238
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+luna/hat
+  rotate: false
+  xy: 296, 0
+  size: 208, 188
+  orig: 208, 188
+  offset: 0, 0
+  index: -1
+luna/inner
+  rotate: false
+  xy: 714, 238
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+luna/mouth
+  rotate: false
+  xy: 79, 346
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+luna/nose
+  rotate: false
+  xy: 42, 346
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+luna/pants
+  rotate: false
+  xy: 791, 238
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+luna/shine_l
+  rotate: false
+  xy: 525, 238
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+luna/shine_r
+  rotate: false
+  xy: 899, 238
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+luna/shirt
+  rotate: false
+  xy: 374, 238
+  size: 149, 59
+  orig: 149, 59
+  offset: 0, 0
+  index: -1

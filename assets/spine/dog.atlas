@@ -1,0 +1,153 @@
+
+dog.png
+size: 1024,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog/arm
+  rotate: false
+  xy: 295, 240
+  size: 146, 42
+  orig: 146, 42
+  offset: 0, 0
+  index: -1
+dog/body
+  rotate: false
+  xy: 516, 0
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+dog/body_wave
+  rotate: false
+  xy: 677, 0
+  size: 152, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1
+dog/brow_l
+  rotate: false
+  xy: 825, 240
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dog/brow_r
+  rotate: false
+  xy: 851, 240
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dog/cheek_l
+  rotate: false
+  xy: 654, 240
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dog/cheek_r
+  rotate: false
+  xy: 697, 240
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dog/ear_l
+  rotate: false
+  xy: 284, 0
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+dog/ear_r
+  rotate: false
+  xy: 400, 0
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+dog/eye_l
+  rotate: false
+  xy: 831, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+dog/eye_r
+  rotate: false
+  xy: 913, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+dog/face
+  rotate: false
+  xy: 0, 0
+  size: 282, 238
+  orig: 282, 238
+  offset: 0, 0
+  index: -1
+dog/hand
+  rotate: false
+  xy: 0, 240
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+dog/inner
+  rotate: false
+  xy: 443, 240
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+dog/mouth
+  rotate: false
+  xy: 740, 240
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+dog/nose
+  rotate: false
+  xy: 791, 240
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+dog/pants
+  rotate: false
+  xy: 521, 240
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+dog/shine_l
+  rotate: false
+  xy: 211, 240
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+dog/shine_r
+  rotate: false
+  xy: 255, 240
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+dog/shirt
+  rotate: false
+  xy: 58, 240
+  size: 151, 59
+  orig: 151, 59
+  offset: 0, 0
+  index: -1
+fx/tear
+  rotate: false
+  xy: 630, 240
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
