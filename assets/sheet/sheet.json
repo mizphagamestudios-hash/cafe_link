@@ -1033,6 +1033,14 @@
 	"sourceSize": {"w":512,"h":319}
 },
 {
+	"filename": "Chocolate",
+	"frame": {"x":2,"y":2423,"w":109,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":109,"h":104},
+	"sourceSize": {"w":113,"h":113}
+},
+{
 	"filename": "Cupcake",
 	"frame": {"x":3907,"y":1795,"w":93,"h":109},
 	"rotated": false,
@@ -1269,7 +1277,7 @@
 	"version": "1.0",
 	"image": "sheet.webp",
 	"format": "RGBA8888",
-	"size": {"w":4050,"h":2422},
+	"size": {"w":4050,"h":2529},
 	"scale": "1",
 	"smartupdate": "$TexturePacker:SmartUpdate:99f2b116c4d375241f80e4eb92a5f745:ed4d694fe2c8ca0c25675f4d1d696d16:33ffe7a8792264928b472e05acf38920$"
 }
