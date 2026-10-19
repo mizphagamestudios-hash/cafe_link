@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Animal Cafe</title>
-    <meta charset="utf-8">
     <link rel="icon" type="image/x-icon" href="favico.ico">
     <meta http-equiv="X-UA-Compatible" content="chrome=1, IE=Edge">
     <meta name="format-detection" content="telephone=no">
@@ -13,8 +12,10 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="Ace Defender: Dragon War">
+    <meta name="apple-mobile-web-app-title" content="Animal Cafe">
     <meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+
+    
 
     <script>
         var dimensions = {}
@@ -24,16 +25,25 @@
             width: 100%;
             height: 100%;
         }
-        
+
         body {
             margin: 0px 0px 1px 0px;
             /* the extra 1px allows the iOS inner/outer check to work */
             padding: 0;
             background: #000;
-            -webkit-user-select: none;
             overflow: hidden;
             width: 100%;
             height: 100%;
+
+            /* Every prefix, which the portals' mobile requirements ask for:
+               without it a swipe across the board selects the page instead of
+               moving a tile, and a long press raises the text menu over it. */
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            -webkit-touch-callout: none;
+            -webkit-tap-highlight-color: transparent;
         }
     </style>
 </head>
@@ -41,8 +51,8 @@
 <body>
     <div id='game'></div>
     <script src="js/phaser.min.js"></script>
-    <script src="js/SpinePlugin.min.js"></script>
-    <script src='main.js?v=cafe-room-3' type='module'></script>
+    <script src="js/spineplugin.min.js"></script>
+    <script src="main.js" type='module'></script>
 
 </body>
 
