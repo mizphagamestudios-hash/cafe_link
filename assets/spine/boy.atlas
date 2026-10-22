@@ -1,0 +1,90 @@
+
+boy.png
+size: 1024,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy/arm_lower_b
+  rotate: false
+  xy: 606, 0
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+boy/arm_lower_f
+  rotate: false
+  xy: 503, 0
+  size: 53, 106
+  orig: 53, 106
+  offset: 0, 0
+  index: -1
+boy/arm_upper_b
+  rotate: false
+  xy: 271, 0
+  size: 56, 125
+  orig: 56, 125
+  offset: 0, 0
+  index: -1
+boy/arm_upper_f
+  rotate: false
+  xy: 395, 0
+  size: 56, 122
+  orig: 56, 122
+  offset: 0, 0
+  index: -1
+boy/foot_b
+  rotate: false
+  xy: 782, 0
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+boy/foot_f
+  rotate: false
+  xy: 660, 0
+  size: 120, 72
+  orig: 120, 72
+  offset: 0, 0
+  index: -1
+boy/head
+  rotate: false
+  xy: 0, 0
+  size: 158, 136
+  orig: 158, 136
+  offset: 0, 0
+  index: -1
+boy/leg_lower_b
+  rotate: false
+  xy: 453, 0
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1
+boy/leg_lower_f
+  rotate: false
+  xy: 558, 0
+  size: 46, 105
+  orig: 46, 105
+  offset: 0, 0
+  index: -1
+boy/leg_upper_b
+  rotate: false
+  xy: 216, 0
+  size: 53, 126
+  orig: 53, 126
+  offset: 0, 0
+  index: -1
+boy/leg_upper_f
+  rotate: false
+  xy: 160, 0
+  size: 54, 128
+  orig: 54, 128
+  offset: 0, 0
+  index: -1
+boy/torso
+  rotate: false
+  xy: 329, 0
+  size: 64, 124
+  orig: 64, 124
+  offset: 0, 0
+  index: -1
